@@ -1,0 +1,34 @@
+h1{
+    color : black;
+}
+
+h2{
+    text-align: center;
+}
+
+a:link{
+    color : black;
+}
+
+a:visited{
+    color: rgb(50,50,50);
+}
+
+body{
+    background-color: aquamarine;
+}
+
+.grid{
+    display : flex;
+    flex-wrap : wrap;
+    justify-content : space-evenly;
+}
+
+.header{
+    background-color: rgb(4, 83, 148);
+}
+
+.footer{
+    display : flex;
+    justify-content : flex-end;
+}
